@@ -5,7 +5,7 @@ An new Air Transport logistics company is setting up Database management from sc
 
 Initial Steps followed
 
-Step 1: Create and use Database after login to MySQL Workbench.
+Step 1: Create and use Database after running MySQL Workbench.
 
 Step 2: Import all data into MySQL Workbench, datasets are excel xlsv files.
 
